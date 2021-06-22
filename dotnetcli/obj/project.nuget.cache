@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XKCZjgw6+I3bLFSQhM6SGJ3DbXFwoyLdVsq5b/zSRch5NsFcD/7U4TfgON4w7/RJApf3s7eZMt4jL2siWhwX9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\POberhau\\Documents\\Projects\\dotnetcli\\dotnetcli\\dotnetcli.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\POberhau\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
